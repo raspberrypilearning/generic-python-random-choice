@@ -1,6 +1,6 @@
 There is a built-in module in the Python programming language called `random`. This module contains lots of useful methods for playing around with random numbers. One feature of the module is the ability to allow the computer to choose a random item from a list.
 
-To use this feature you must first import the `choice` method from the `random` class, and then create a list to use.
+To use this feature you must first import the `choice` method from the `random` library, and then create a list to use.
 
 ```python
 from random import choice
@@ -23,10 +23,7 @@ Any data that can be placed inside a list can be selected with `choice()`. For i
 ```python
 from random import choice
 
-greetings = ['Hello there',
-	         'How are you?',
-		     "What's up",
-			 'Yo!']
+greetings = ['Hello there', 'How are you?', "What's up", 'Yo!']
 			
 my_greeting = choice(greetings)
 ```
