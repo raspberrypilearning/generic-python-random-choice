@@ -1,5 +1,3 @@
-## Choosing random items from a list in Python
-
 There is a built-in module in the Python programming language called `random`. This module contains lots of useful methods for playing around with random numbers. One feature of the module is the ability to allow the computer to choose a random item from a list.
 
 To use this feature you must first import the `choice` method from the `random` class, and then create a list to use.
