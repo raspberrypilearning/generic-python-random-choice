@@ -1,10 +1,10 @@
-title: generic-python-random-choice
+title: Choosing random items from a list in Python
 hero_image: images/banner.png
-subtitle: generic-python-random-choice subtitle
+subtitle: Learn how to choose a random item from a list
 description: generic-python-random-choice description
 original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
 theme: cc-prototype
 published: false
+ingredient: true
 steps:
   - title: Step one
-    duration: 60
