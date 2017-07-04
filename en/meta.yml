@@ -1,10 +1,12 @@
 title: Choosing random items from a list in Python
 hero_image: images/banner.png
-subtitle: Learn how to choose a random item from a list
-description: generic-python-random-choice description
-original_url: https://codeclubprojects.org/en-GB/scratch/rock-band
+description: Picking random items from a list in Python
+original_url: 
 theme: cc-prototype
-published: false
+listed: false
 ingredient: true
+copyedit: true
+interests:
+technologies: "python"
 steps:
-  - title: Step one
+  - title: Picking random items
